@@ -1,4 +1,4 @@
-# bootcamp-dio-santander-2026
+# Agenda-bootcamp-dio-santander-2026
 Estudos do bootcamp AI Java Back-end
 
 Aqui irei ficar atualizando meus conhecimentos adquiridos no bootcamp.
