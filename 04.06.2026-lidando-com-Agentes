@@ -1,0 +1,9 @@
+O agente de IA é como delegar uma tarefa a alguém de confiança: você explica o que precisa, ele analisa a situação, decide como resolver e executa. Você acompanha o resultado, não cada passo do processo.
+
+Criamos uma pasta, e utilizando o Google Antigravity(Plataforma de agentes), vamos entregar a ele o plano de estudo do arquivo passado e vamos pedir para ele fazer:
+-README.md com o resumo do plano;
+-cronograma.md com o roteiro semanal (semanas 1 a 4);
+-uma pasta "anotacoes" com um modelo "semana-01.md" para eu duplicar;
+-recursos.md com os materiais separados por semana.
+
+E antes de criar, eu pedi para ele me explicar brevemente sua estrutura, e depois executá-la.
