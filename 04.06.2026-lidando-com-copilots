@@ -1,0 +1,10 @@
+(04/06/2026)
+Criamos um documento em branco no google docs, e a partir dele utilizamos o chatbot integrado do google docs para nos auxiliar;
+Nesse caso pedimos para ele criar um plano de estudos, colocamos a nossa área de interesse, os tópicos, e pedimos para ele estruturar com o nosso objetivo, o cronograma da semana e materiais e refêrencias;
+A partir daí ele criou todo um prompt dentro do meu arquivo do google docs. 
+
+Também utiliazamos o Gemini para escrever e melhorar emails no Gmail.
+
+E também podemos utilizar o copilot do VsCode.
+
+Copilots diferentemente de chatbots, ele é como se fosse um "colega de trabalho", ele já tem o contexto de como funciona, ou como está funcionando seus projetos e rotinas de trabalho, e te auxilia a partir daí.
